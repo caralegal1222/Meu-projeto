@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>meu projeto</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<header>
+			<h1 class="titulo-principal">meu projeto</h1>
+		</header>
+		<div class="principal">
+			<h2 class="titulo-centralizado">mais</h2>
+	 
+			
+
+	
+
+			<p>teste</p>
+		</div>
+
+		<div class="testes">
+			<h3 class="titulo-centralizado">enponja</h3>
+
+			<ul>
+				<li class="itens">teste</li>
+				<li class="itens">outro teste</li>
+			
+			</ul>
+		</div>
+	</body>
+</html>
